@@ -1,3 +1,11 @@
+# DeXter Markets
+
+The NFT marketplace that Radix deserves!
+
+<img width="1341" alt="Bildschirmfoto 2024-08-17 um 17 20 04" src="https://github.com/user-attachments/assets/c1059ace-35d1-431c-b8ba-aab7d77abece">
+
+# NextJS boilerplate
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
