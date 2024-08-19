@@ -61,7 +61,7 @@ function HeroSection() {
           </h1>
           <DexterButton
             title={"Join Waitlist"}
-            targetUrl="https://t.me/dexter_discussions"
+            targetUrl="https://t.me/+LqOcx8YZGA83Mzlk"
           />
           <KeyFeatures showFor={Device.MOBILE} />
         </div>
