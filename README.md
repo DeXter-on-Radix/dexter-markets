@@ -2,7 +2,7 @@
 
 The NFT marketplace that Radix deserves!
 
-<img width="1341" alt="Bildschirmfoto 2024-08-17 um 17 20 04" src="https://github.com/user-attachments/assets/c1059ace-35d1-431c-b8ba-aab7d77abece">
+<img width="1277" alt="Bildschirmfoto 2024-08-20 um 00 26 14" src="https://github.com/user-attachments/assets/6bd6cf49-141e-4652-9b8a-a38d8e636d46">
 
 # NextJS boilerplate
 
