@@ -138,7 +138,7 @@ interface DexterButtonProps {
   maxWidth?: string;
 }
 
-export function DexterButton({
+function DexterButton({
   title,
   targetUrl,
   targetBlank,
