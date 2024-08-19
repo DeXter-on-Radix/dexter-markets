@@ -47,7 +47,7 @@ function HeroSection() {
           <img
             src="/dexter-logo-and-lettering.svg"
             alt="dexter logo and lettering"
-            className="pb-4 min-[420px]:hidden h-12"
+            className="pb-8 h-20"
           />
           <h1
             className={
@@ -70,6 +70,11 @@ function HeroSection() {
             src="/landing/dexter-mascotte.png"
             alt="Dexter Mascotte"
             className={`w-[285px] z-[100] max-[820px]:hidden relative `}
+          />
+          <img
+            src="/landing/nft-cards.png"
+            alt="Dexter Mascotte"
+            className={`z-[50] max-[820px]:hidden absolute top-[-10px] scale-150`}
           />
         </div>
       </div>
