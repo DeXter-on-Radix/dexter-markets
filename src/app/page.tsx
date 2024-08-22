@@ -74,7 +74,7 @@ function HeroSection() {
           <img
             src="/landing/nft-cards.png"
             alt="Dexter Mascotte"
-            className={`z-[50] max-[820px]:hidden absolute top-[-10px] scale-150`}
+            className={`z-[50] max-[820px]:hidden absolute top-[-10px] scale-150 mt-16`}
           />
         </div>
       </div>
